@@ -1,0 +1,2 @@
+# Contains requirements common to all environments
+fastapi[all]

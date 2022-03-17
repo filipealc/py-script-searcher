@@ -1,0 +1,3 @@
+# A couple clouds require a file called requirements in the root folder
+# so this is mirroing the production environment in case you need it
+-r requirements/prod.txt
